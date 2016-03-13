@@ -32,7 +32,7 @@ SECRET_NUMBER = rand(100)
      color = "yellow"
      [message, color]
    end
-
+ 
  end
 
 
